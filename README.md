@@ -37,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/XuanSang2005/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/XuanSang2005/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Math
+|  |
+| ------- |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/XuanSang2005/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 <!---LeetCode Topics End-->
