@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/XuanSang2005/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/XuanSang2005/Leetcode/tree/master/0079-word-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/XuanSang2005/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/XuanSang2005/Leetcode/tree/master/0079-word-search) |
 ## Linked List
 |  |
 | ------- |
@@ -41,4 +43,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/XuanSang2005/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/XuanSang2005/Leetcode/tree/master/0079-word-search) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/XuanSang2005/Leetcode/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/XuanSang2005/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
