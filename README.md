@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/XuanSang2005/Leetcode/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/XuanSang2005/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/XuanSang2005/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/XuanSang2005/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/XuanSang2005/Leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/XuanSang2005/Leetcode/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
