@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/XuanSang2005/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/XuanSang2005/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Enumeration
 |  |
 | ------- |
@@ -46,10 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/XuanSang2005/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [3462-vowels-game-in-a-string](https://github.com/XuanSang2005/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0079-word-search](https://github.com/XuanSang2005/Leetcode/tree/master/0079-word-search) |
+| [3462-vowels-game-in-a-string](https://github.com/XuanSang2005/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -83,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/XuanSang2005/Leetcode/tree/master/0088-merge-sorted-array) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/XuanSang2005/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
