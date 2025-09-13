@@ -51,11 +51,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/XuanSang2005/Leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/XuanSang2005/Leetcode/tree/master/0079-word-search) |
 | [3462-vowels-game-in-a-string](https://github.com/XuanSang2005/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/XuanSang2005/Leetcode/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/XuanSang2005/Leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/XuanSang2005/Leetcode/tree/master/0079-word-search) |
 ## Depth-First Search
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/XuanSang2005/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/XuanSang2005/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
