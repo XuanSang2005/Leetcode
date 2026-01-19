@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/XuanSang2005/Leetcode/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/XuanSang2005/Leetcode/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/XuanSang2005/Leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/XuanSang2005/Leetcode/tree/master/0079-word-search) |
 | [3462-vowels-game-in-a-string](https://github.com/XuanSang2005/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Backtracking
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/XuanSang2005/Leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/XuanSang2005/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Tree
 |  |
