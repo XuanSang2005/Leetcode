@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/XuanSang2005/Leetcode/tree/master/0067-add-binary) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/XuanSang2005/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Brainteaser
 |  |
@@ -46,12 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/XuanSang2005/Leetcode/tree/master/0067-add-binary) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/XuanSang2005/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3462-vowels-game-in-a-string](https://github.com/XuanSang2005/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/XuanSang2005/Leetcode/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/XuanSang2005/Leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/XuanSang2005/Leetcode/tree/master/0079-word-search) |
 | [3462-vowels-game-in-a-string](https://github.com/XuanSang2005/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Backtracking
@@ -96,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/XuanSang2005/Leetcode/tree/master/0022-generate-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/XuanSang2005/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
