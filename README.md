@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/XuanSang2005/Leetcode/tree/master/0015-3sum) |
 | [0051-n-queens](https://github.com/XuanSang2005/Leetcode/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/XuanSang2005/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/XuanSang2005/Leetcode/tree/master/0079-word-search) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/XuanSang2005/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/XuanSang2005/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/XuanSang2005/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/XuanSang2005/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/XuanSang2005/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/XuanSang2005/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Game Theory
 |  |
